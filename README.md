@@ -1,6 +1,8 @@
 # Portfolio
 I completed my portfolio webpage in just 32 hours. During the day, I focused on my office work, and at night, after dinner, I dedicated my time to building the Portfolio. I believe you will find it unique and well-designed. I would love to hear your feedback, as it would mean a lot to me...
 
+https://zouraiz.netlify.app/
+
 MIT License
 Copyright (c) 2024
 Zouraiz
