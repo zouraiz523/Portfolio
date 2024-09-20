@@ -3,7 +3,7 @@ I completed my portfolio webpage in just 32 hours. During the day, I focused on 
 
 https://zouraiz.netlify.app/
 
-MIT License
+
 Copyright (c) 2024
 Zouraiz
 
