@@ -8,7 +8,7 @@ https://zouraiz.netlify.app/
 Copyright (c) 2024
 Zouraiz
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+Permission is Hereby granted, free of charge, to any person obtaining a copy
 of this portfolio website and associated documentation files (the "Website"), to deal
 in the Website without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
